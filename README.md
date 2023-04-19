@@ -28,7 +28,7 @@ The project frontend part done  [Bootstrap.css](https://tailwindcomponents.com/)
 
 ## Admin Panel
 
-For the Admin dashboard use [Admin.LTE](https://adminlte.io/).
+For the Admin dashboard used [Admin.LTE](https://adminlte.io/).
 
 ## .env
 
